@@ -58,7 +58,7 @@ if(($setup_exists or $upgrade_exists) and ($_SERVER['HTTP_HOST'] != 'localhost' 
 	echo "
 	<html>
 	<head>
-	<title>XtraUpload: Fatal Error</title>
+	<title>XtraUpload: Fatal Error!</title>
 	</head>
 	<body>
 	<style type=\"text/css\">
