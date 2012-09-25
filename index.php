@@ -71,7 +71,7 @@ if(($setup_exists or $upgrade_exists) and ($_SERVER['HTTP_HOST'] != 'localhost' 
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
     border-radius: 6px;
-    
+
     }
     </style>
 	<div>
